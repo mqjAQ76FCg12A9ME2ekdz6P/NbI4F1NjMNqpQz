@@ -16,7 +16,7 @@
     "settings": {
       "banners": "admob,applovin",
       "inters": "admob,applovin",
-      "natives": "applovin,admob",
+      "natives": "admob,applovin",
       "rewards": "admob,applovin"
     }
   }

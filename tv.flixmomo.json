@@ -1,0 +1,23 @@
+{
+  "ads": {
+    "admob": {
+      "bannerIds": ["ca-app-pub-xxx/banner-1"],
+      "interIds": ["ca-app-pub-xxx/inter-1"],
+      "nativeIds": ["ca-app-pub-xxx/native-1"],
+      "rewardIds": ["ca-app-pub-xxx/reward-1"]
+    },
+    "applovin": {
+      "key": "YOUR_APPLOVIN_SDK_KEY",
+      "bannerIds": ["YOUR_APPLOVIN_BANNER_UNIT"],
+      "interIds": ["YOUR_APPLOVIN_INTERSTITIAL_UNIT"],
+      "nativeIds": ["YOUR_APPLOVIN_NATIVE_UNIT"],
+      "rewardIds": ["YOUR_APPLOVIN_REWARDED_UNIT"]
+    },
+    "settings": {
+      "banners": "admob,applovin",
+      "inters": "admob,applovin",
+      "natives": "applovin,admob",
+      "rewards": "admob,applovin"
+    }
+  }
+}

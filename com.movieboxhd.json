@@ -1,10 +1,10 @@
 {
   "ads": {
     "admob": {
-      "bannerIds": ["ca-app-pub-3940256099942544/6300978111"],
-      "interIds": ["ca-app-pub-3940256099942544/1033173712"],
-      "nativeIds": ["ca-app-pub-3940256099942544/2247696110"],
-      "rewardIds": ["ca-app-pub-3940256099942544/5224354917"]
+      "bannerIds": ["ca-app-pub-3568706209440001/7917234253"],
+      "interIds": ["ca-app-pub-3568706209440001/2664907572"],
+      "nativeIds": ["ca-app-pub-3568706209440001/6426403624"],
+      "rewardIds": ["ca-app-pub-3568706209440001/3539005547"]
     },
     "applovin": {
       "key": "YOUR_APPLOVIN_SDK_KEY",
@@ -15,8 +15,8 @@
     },
     "settings": {
       "banners": "admob,applovin",
-      "inters": ",,admob,,",
-      "natives": "applovin,admob",
+      "inters": "admob,applovin",
+      "natives": "admob,applovin",
       "rewards": "admob,applovin"
     }
   }

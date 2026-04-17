@@ -1,10 +1,10 @@
 {
   "ads": {
     "admob": {
-      "bannerIds": ["ca-app-pub-3940256099942544/6300978111"],
-      "interIds": ["ca-app-pub-3940256099942544/1033173712"],
-      "nativeIds": ["ca-app-pub-3940256099942544/2247696110"],
-      "rewardIds": ["ca-app-pub-3940256099942544/5224354917"]
+      "bannerIds": ["ca-app-pub-3568706209440001/5359135471"],
+      "interIds": ["ca-app-pub-3568706209440001/9409213661"],
+      "nativeIds": ["ca-app-pub-3568706209440001/3738932047"],
+      "rewardIds": ["ca-app-pub-3568706209440001/2657162545"]
     },
     "applovin": {
       "key": "YOUR_APPLOVIN_SDK_KEY",

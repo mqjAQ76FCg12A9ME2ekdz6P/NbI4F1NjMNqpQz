@@ -14,10 +14,10 @@
       "rewardIds": ["YOUR_APPLOVIN_REWARDED_UNIT"]
     },
     "settings": {
-      "banners": "admob,applovin",
+      "banners": "admob,",
       "inters": ",,admob,",
-      "natives": "admob,applovin",
-      "rewards": "admob,applovin"
+      "natives": "admob,",
+      "rewards": "admob,"
     }
   }
 }
